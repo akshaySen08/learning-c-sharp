@@ -1,0 +1,12 @@
+Classes
+Objects
+Properties
+Constructors
+Methods inside classes
+Lists
+foreach loops
+while loops
+switch statements
+FirstOrDefault
+TryParse
+Basic in-memory CRUD
