@@ -30,7 +30,7 @@ else
 // 4. Delete task
 // 5. Exit
 
-int nextid = 4;
+int nextid = tasks.Count + 1;
 bool isRunning = true;
 int taskCount = tasks.Count;
 
